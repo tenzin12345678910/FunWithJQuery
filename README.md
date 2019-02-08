@@ -3,7 +3,7 @@
 * **Description:** Practice implementing jQuery DOM manipulations and event handlers
 
 ## Lesson
-Basic jQuery syntax: $(selector).action
+Basic jQuery syntax: $(**selector**).**action**
 
 To implement DOM manipulations and event handlers on HTML elements using jQuery, use the process flow:
 1. Identify the element you are watching/targetting (query/select the element)
